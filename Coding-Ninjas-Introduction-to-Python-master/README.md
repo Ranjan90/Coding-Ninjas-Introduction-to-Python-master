@@ -18,7 +18,3 @@ Topics discussed are:-
 
 
 
-Register the course with the following referral link to get a discount of ₹1,000/-    
-Referral Link: https://classroom.codingninjas.com/app/invite/ZEUJL 
-
-**P.S: Don't forget to sign up with a new ID to avail discount**
